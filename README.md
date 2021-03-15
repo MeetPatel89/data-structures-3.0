@@ -4,5 +4,8 @@ Welcome to the data structues and algorithms docs.
 
 ## Nodes
 
-Nodes are the most fundamental of all data structures. They are used to build many other complex data structures
+Nodes are the most fundamental of all data structures. They are used to build many other complex data structures.
 
+## Recursion
+
+When you call a function or method from within that function or method.
